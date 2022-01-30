@@ -1,0 +1,7 @@
+.nav-treeview > .nav-item > .nav-link {
+    color: #fafafa !important;
+    margin-left: 1rem;
+}
+.nav-sidebar .nav-item > .nav-link {
+    color: #fafafa !important;
+}
